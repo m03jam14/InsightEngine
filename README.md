@@ -1,5 +1,5 @@
 # InsightEngine
-InsightEngine is a comprehensive repository dedicated to the art and science of data visualization. This project aims to transform complex data sets into clear, engaging visuals that enhance understanding and drive insights.
+
 # Canadian Variable Mortgage Rate Analytics Dashboard
 
 A comprehensive Tableau dashboard analyzing Canadian variable mortgage rates from 2015-2024, tracking unprecedented monetary policy shifts and their impact on housing affordability.
