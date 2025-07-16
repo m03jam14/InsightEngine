@@ -2,7 +2,6 @@
 
 # Canadian Variable Mortgage Rate Analytics Dashboard
 
-A comprehensive Tableau dashboard analyzing Canadian variable mortgage rates from 2015-2024, tracking unprecedented monetary policy shifts and their impact on housing affordability.
 
 ## Overview
 
